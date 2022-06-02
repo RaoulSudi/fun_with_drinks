@@ -1,0 +1,1 @@
+class DrinkingTaskModel extends DrinkingTask {}

@@ -1,0 +1,1 @@
+class DrinkingTask extends Equatable {}
